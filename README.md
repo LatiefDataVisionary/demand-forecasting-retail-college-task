@@ -118,9 +118,3 @@ To run this project on your local machine, follow these steps:
 *   **Jupyter Notebook:** for interactive development and analysis.
 
 ---
-
-### 👥 Contributors
-*   [Nama Lengkap Anda] - [Nomor Induk Mahasiswa Anda]
-*   [Nama Lengkap Anggota 2] - [NIM Anggota 2]
-*   [Nama Lengkap Anggota 3] - [NIM Anggota 3]
-*   ...
