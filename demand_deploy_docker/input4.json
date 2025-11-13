@@ -1,0 +1,30 @@
+[
+    {
+        "Date": "2025-04-10",
+        "Product ID": "P0001",
+        "Store ID": "S001",
+        "Category": "Electronics",
+        "Region": "North",
+        "Weather Condition": "Rainy",
+        "Seasonality": "Spring",
+        "SUPPLIER": "Unknown",
+        "ITEM TYPE": "Unknown",
+        "Units Sold": 100,
+        "Price": 75.0,
+        "Inventory Level": 288,
+        "Units Ordered": 278.0,
+        "Competitor Pricing": 86.55,
+        "Discount": 0.1,
+        "Epidemic": 0,
+        "Promotion": 1,
+        "RETAIL SALES": 5500.0,
+        "holiday_season": 0,
+        "promotion_applied": 1,
+        "competitor_price_index": 0.95,
+        "economic_index": 105.0,
+        "weather_impact": 0,
+        "price": 120.0,
+        "discount_percentage": 0.05,
+        "sales_revenue": 7000.0
+    }
+]

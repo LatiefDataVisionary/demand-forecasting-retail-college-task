@@ -1,0 +1,30 @@
+[
+    {
+        "Date": "2025-10-20",
+        "Product ID": "P0001",
+        "Store ID": "S001",
+        "Category": "Clothing",
+        "Region": "North",
+        "Weather Condition": "Cloudy",
+        "Seasonality": "Autumn",
+        "SUPPLIER": "Unknown",
+        "ITEM TYPE": "Unknown",
+        "Units Sold": 30,
+        "Price": 95.0,
+        "Inventory Level": 288,
+        "Units Ordered": 278.0,
+        "Competitor Pricing": 86.55,
+        "Discount": 0.0,
+        "Epidemic": 0,
+        "Promotion": 0,
+        "RETAIL SALES": 5500.0,
+        "holiday_season": 0,
+        "promotion_applied": 0,
+        "competitor_price_index": 0.95,
+        "economic_index": 105.0,
+        "weather_impact": 0,
+        "price": 120.0,
+        "discount_percentage": 0.05,
+        "sales_revenue": 2850.0
+    }
+]
